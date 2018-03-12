@@ -31,7 +31,7 @@ Just hit RUN to check it out!
 
 ***IMPORTANT:*** **Twitter doesn't like spammy twitter profiles, and I don't want to get this account suspended!** I'm giving you authorization to post on the account, and ***every time you run api.update_status successfully,*** it will send out a tweet.  I'm asking that you please limit your posts to ***2 tweets per 10 minutes.*** The twitter limit is 100 tweets/hour, and I don't want us to get banned!
 
-Here's the twitter account this code is hooked up to: [@mic_drop_bot](https://twitter.com/Mic_Drop_Bot)
+Here's the twitter account this code is hooked up to: [@mic_drop_bot](https://twitter.com/Mic_Drop_Bot). I used him for an old old hackathon project. 
 
 Once you've read that, you may run the following code to tweet something:
 
