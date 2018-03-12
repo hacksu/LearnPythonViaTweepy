@@ -14,7 +14,7 @@ Once you have an account, go to the Files tab, and make a new file called `myScr
 
 With the file open, let's walk through a basic example of a Python script.
 
-Here's a script that will iterate through 15 numbers, and output the square for all of those numbers, with a special message for number 10:
+Python is a cool language that simplifies a lot of things about code. We won't go into detail about how python works in this tutorial, but here's a sample script that will iterate through 15 numbers, and output the square for all of those numbers, with a special message for number 10:
 
 ```
 for a in range(15):
