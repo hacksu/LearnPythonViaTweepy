@@ -25,6 +25,7 @@ for a in range(15):
         print ("%d squared is equal to %d!" % (a, b))
 ```
 
+Just hit RUN to check it out!
 
 # Authorizing our Twitter App
 
