@@ -1,4 +1,4 @@
-*If you're only here for the API keys, here they are: *
+_If you're only here for the API keys, here they are: _
 ```
 consumer_key = 'msLJGoIZx7hMxWv6eszGGOBfi'
 consumer_secret = 'azXQeRpFj9Wowfnrhj1M4CcMgVm5Kp9SXhppPNx26MfLHHivUA'
@@ -13,7 +13,7 @@ If you're here just for the authorization code, skip down to **Authorizing Our T
 
 Today we're going to learn the basics of Python, via [Python Anywhere](http://pythonanywhere.com).  Python is language that doesn't come on all computers, so Python Anywhere lets us use it without the pain of installing it manually. 
 
-*If you're interested in installing Python on your local machine, you can do so [here](https://www.python.org/downloads/). it's worth noting that Mac OS has Python 2.7 preinstalled on their machines, but we'll be using Python 3.6. *
+_If you're interested in installing Python on your local machine, you can do so [here](https://www.python.org/downloads/). it's worth noting that Mac OS has Python 2.7 preinstalled on their machines, but we'll be using Python 3.6. _
 
 ## Setting Up Our Project
 
