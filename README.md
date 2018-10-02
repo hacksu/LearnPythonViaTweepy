@@ -1,11 +1,3 @@
-_If you're only here for the API keys, here they are: _
-```
-consumer_key = 'msLJGoIZx7hMxWv6eszGGOBfi'
-consumer_secret = 'azXQeRpFj9Wowfnrhj1M4CcMgVm5Kp9SXhppPNx26MfLHHivUA'
-access_token = '3914186835-ml58nTscOP4TbwuDK1U2aA0YiA1PtlOjlUMPrJH'
-access_token_secret = 'JqJdbB4Hj9U52iiEQ1yxDpn2xPxMs0wlx8i3ncCna75LE'
-```
-
 
 # Learn Python Via Tweepy
 
